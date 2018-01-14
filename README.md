@@ -2,7 +2,7 @@
 
 Running the app locally
 
-git clone 
+git clone  https://github.com/kartikgpt06/HPDF_Task1_Kartik
 
 cd HPDF_Task1_Kartik
 
